@@ -72,3 +72,5 @@ MIT
 <!-- [2024-05-04] feat: scaffold secure client-side password generator UI -->
 
 <!-- [2024-05-04] feat: implement entropy calculation and customizable character pools -->
+
+<!-- [2024-05-24] feat: add one-click clipboard copy with visual feedback -->
